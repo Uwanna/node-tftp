@@ -1,5 +1,5 @@
 {
-	"name": "tftp",
+	"name": "tftp-hdlc",
 	"version": "0.1.2",
 	"description": "Streaming TFTP client and server",
 	"keywords": ["tftp", "client", "stream"],
